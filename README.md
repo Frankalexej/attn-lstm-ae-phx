@@ -1,5 +1,6 @@
 # attn-lstm-ae-phx
 Attention-LSTM Autoencoder Learns Phonotactics
+- Poster (CorpusPhon24): [Please kindly refer here](https://www.dropbox.com/scl/fi/5fwd02zjm4j5ibe9qqd95/CorpusPhon_Poster_A0_V3.pdf?rlkey=u5xpb3bd9srlivtvcyn3os4uq&st=45z2gyya&dl=0).  
 
 ## Experiment Codes
 The C_0T prefixed files are the experiment runners, evaluators and plotters for the results presented in the poster. 
